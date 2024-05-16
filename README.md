@@ -1,2 +1,4 @@
 # Spark3.5.1-Windows-Files
-Command files needed to run Apache Spark 3.5.1 on Windows
+It consists of windows files (.cmd) that are missing with the official release of Apache Spark on Windows operating system.
+
+You can just download these files, copy to the exact folder structure in SPARK_HOME directory and start using.
